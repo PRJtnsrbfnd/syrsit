@@ -1,7 +1,7 @@
 <h2 align="center">
   Portfolio Website - v1.0<br/>
-  <a href="contact at ___@gmail.com/" target="_blank">
-</h2>
+  contact at ___@gmail.com
+ </h2>
 <div align="center">
   <img alt="Demo" src="./Images/readme-img1.png" />
 </div>
@@ -14,9 +14,9 @@
 
 <h3 align="center">
     🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
+    <a href="https://github.com/PRJtnsrbfnd/syrsit/issues">Report Bug</a> &nbsp; &nbsp;
     🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Request Feature</a>
+    <a href="https://github.com/PRJtnsrbfnd/syrsit/issues">Request Feature</a>
 </h3>
 
 
