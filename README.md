@@ -2,15 +2,6 @@
   Portfolio Website - v1.0<br/>
   contact at ___@gmail.com
  </h2>
-<div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
-</div>
-
-<br/>
-
-<center>
-
-</center>
 
 <h3 align="center">
     🔹
